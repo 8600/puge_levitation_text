@@ -1,0 +1,30 @@
+{
+  "name": "puge_levitation_text",
+  "version": "1.0.0",
+  "description": "悬浮的文字",
+  "author": "PUGE <my@owo.help>",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/8600/puge_levitation_text.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8600/puge_levitation_text/issues"
+  },
+  "homepage": "https://github.com/8600/puge_levitation_text",
+  "keywords": [
+    "vue",
+    "background",
+    "bubble"
+  ],
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 9"
+  ]
+}
